@@ -1,0 +1,25 @@
+.container{
+  width: 70%;
+  margin: 50px 460px;
+}
+
+.input{
+  font-size: 25px;
+  width: 50%;
+}
+
+.suggestion{
+  font-size: 22px;
+  width: 40%;
+}
+
+.suggestion:hover{
+  background-color: white;
+  color: black;
+}
+
+body {
+  color:black;
+  background-color:white;
+  background-image:url(../images/background.png);
+  }
